@@ -33,6 +33,10 @@ button{
     cursor: pointer;
     margin: 2px;
     border-radius: 10px;
+
+    &:hover{
+        background-color: pink;
+    }
 }
 
 div{
